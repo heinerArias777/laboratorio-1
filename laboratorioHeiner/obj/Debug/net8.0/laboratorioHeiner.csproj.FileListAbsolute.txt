@@ -1,0 +1,4 @@
+C:\Users\heine\source\repos\laboratorioHeiner\laboratorioHeiner\obj\Debug\net8.0\laboratorioHeiner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heine\source\repos\laboratorioHeiner\laboratorioHeiner\obj\Debug\net8.0\laboratorioHeiner.AssemblyInfoInputs.cache
+C:\Users\heine\source\repos\laboratorioHeiner\laboratorioHeiner\obj\Debug\net8.0\laboratorioHeiner.AssemblyInfo.cs
+C:\Users\heine\source\repos\laboratorioHeiner\laboratorioHeiner\obj\Debug\net8.0\laboratorioHeiner.csproj.CoreCompileInputs.cache
